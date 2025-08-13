@@ -1,0 +1,15 @@
+Overview
+
+I explored the world of Python development by leveraging my knowledge of Python and API integration.
+
+This project is an AI-powered poem generator designed to create unique poems based on user input. It uses Python to handle the backend logic and integrates with the SheCodes AI API to generate creative and personalized poetic content. The application provides a simple interface for users to input prompts or themes, which are then processed to produce original poems.
+
+Features
+
+Responsive Design: The interface adapts to different screen sizes for a consistent experience on desktop and mobile devices.
+
+Clean Aesthetics: Styled with a user-friendly interface to present generated poems in an engaging and readable format.
+
+Lightweight: Built with minimal code for efficient performance and easy maintenance.
+
+Dynamic Poem Generation: Utilizes Python and the SheCodes AI API to create unique poems based on user-provided prompts or themes.
